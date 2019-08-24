@@ -1,0 +1,22 @@
+{
+  "name": "orly.design",
+  "version": "0.0.1",
+  "description": "website for Orly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeatPieYan/orly.design.git"
+  },
+  "keywords": [
+    "orly"
+  ],
+  "author": "Robin Yan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeatPieYan/orly.design/issues"
+  },
+  "homepage": "https://github.com/MeatPieYan/orly.design#readme"
+}
